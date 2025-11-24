@@ -76,6 +76,62 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+        "qiqi": {
+        "api": "https://www.qiqidys.com/api.php/provide/vod",
+        "name": "七七资源",
+    },
+    "xiaomaomi": {
+        "api": "https://zy.xmm.hk/api.php/provide/vod",
+        "name": "小猫咪资源",
+    },
+    "hwba": {
+        "api": "https://cjhwba.com/api.php/provide/vod",
+        "name": "华为吧资源",
+    },
+    "baidu": {
+        "api": "https://api.apibdzy.com/api.php/provide/vod",
+        "name": "百度云资源"
+    },
+    "lzi": {
+        "api": "https://cj.lziapi.com/api.php/provide/vod/",
+        "name": "量子资源站"
+    },
+    "jpzy": {
+        "api": "https://api.ddapi.cc/api.php/provide/vod/",
+        "name": "y-滴滴资源"
+    },
+    "lbzy": {
+        "api": "https://lbapi9.com/api.php/provide/vod/",
+        "name": "y-乐播资源"
+    },
+    "bqzy": {
+        "api": "https://www.kxgav.com/api/json.php/",
+        "name": "y-白嫖资源"
+    },
+    "msnzy": {
+        "api": "https://www.msnii.com/api/json.php/",
+        "name": "y-美少女资源"
+    },
+    "xnezy": {
+        "api": "https://www.gdlsp.com/api/json.php/",
+        "name": "y-香奶儿资源"
+    },
+    "fhzy": {
+        "api": "http://fhapi9.com/api.php/provide/vod/",
+        "name": "y-番号资源"
+    },
+    "ywwzy": {
+        "api": "https://155api.com/api.php/provide/vod/",
+        "name": "y-155资源"
+    },
+    "jkzy": {
+        "api": "https://jkunzyapi.com/api.php/provide/vod/",
+        "name": "y-鸡坤资源"
+    },
+    "havzy": {
+        "api": "https://www.pgxdy.com/api/json.php/",
+        "name": "y-av资源"
     }
   }
 }
